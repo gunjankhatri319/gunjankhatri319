@@ -70,42 +70,6 @@ I'm currently transitioning my focus to **AI & Machine Learning**. While I have 
 
 ---
 
-## 🎯 Learning Roadmap 
-
-### Phase 1: ML Fundamentals (Months 1-2)
-- ⭕ Python for data science (NumPy, Pandas, Matplotlib)
-- ⭕ Statistics and probability basics
-- ⭕ Understanding supervised learning (regression, classification)
-- ⭕ First ML project: Predictive model
-
-### Phase 2: Dive Deeper (Months 3-4)
-- ⭕ Unsupervised learning (clustering, dimensionality reduction)
-- ⭕ Model evaluation and validation techniques
-- ⭕ Introduction to deep learning
-- ⭕ Second project: Image classification or NLP
-
-### Phase 3: Advanced ML (Months 5-6)
-- ⭕ Deep Neural Networks (TensorFlow/PyTorch)
-- ⭕ Computer Vision and NLP applications
-- ⭕ Real-world ML projects
-- ⭕ Build portfolio with multiple ML projects
-
-### Parallel Track: Web Integration
-- 🔄 Combine ML models with front-end skills
-- 🔄 Build AI-powered web applications
-- 🔄 Deploy ML models to production
-
----
-
-## 💡 What I'm Starting Tomorrow
-
-- 🚀 **Python Fundamentals** — Data types, control flow, functions, OOP
-- 📊 **Data Science Basics** — NumPy, Pandas, data visualization
-- 🤖 **ML Algorithms** — Linear regression, classification, clustering
-- 📈 **First ML Project** — Building a predictive model from scratch
-- 💻 **Code & Practice** — Jupyter Notebooks, GitHub commits daily
-
----
 
 ## 📬 Connect With Me
 
