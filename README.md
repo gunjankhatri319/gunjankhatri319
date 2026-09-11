@@ -76,11 +76,15 @@ I'm a **second-year engineering student** at **RAIT DY PATIL** in **Navi Mumbai*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjankhatri319&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+### 📈 My GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjankhatri319&theme=tokyonight&hide_border=true&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjankhatri319&theme=radical&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/gunjankhatri319)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gunjankhatri319&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjankhatri319&theme=radical&layout=compact&langs_count=8)](https://github.com/gunjankhatri319)
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gunjankhatri319&theme=radical&hide_border=true)](https://github.com/gunjankhatri319)
 
 </div>
 
@@ -157,6 +161,6 @@ I'm always interested in **collaborating on ML projects**, discussing **new idea
 
 ⭐ **If you find my work interesting, consider giving it a star!** ⭐
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gunjankhatri319.gunjankhatri319&title=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=gunjankhatri319&color=blue&style=flat-square)
 
 </div>
