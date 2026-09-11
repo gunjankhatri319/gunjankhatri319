@@ -1,16 +1,22 @@
 # Hey there! 👋 I'm Gunjan Khatri
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=100&color=EC4899&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Second-Year+Engineering+Student;Building+Real+Projects;Learning+by+Doing+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
+
+### 🚀 AI & ML Enthusiast | Engineering Student | Building Real Projects
+
+**Second-Year Student at RAIT DY PATIL** | **Navi Mumbai, India**
+
+*"Learning by building, growing one project at a time."* 💡
+
+</div>
 
 ---
 
 ## 🎯 About Me
 
-I'm a **second-year engineering student** at **RAIT DY PATIL** in **Navi Mumbai**, passionate about **Artificial Intelligence & Machine Learning**. I believe in learning through building real projects and solving actual problems.
+I'm a **second-year engineering student** passionate about **Artificial Intelligence & Machine Learning**. I believe in learning through building real projects and solving actual problems.
 
-> **"Learning by building, growing one project at a time."** 💡
-
-### 🚀 What I'm Currently Doing
+### 🔥 What I'm Currently Doing
 - 🤖 Deep diving into **Machine Learning & AI** algorithms
 - 🏗️ Building end-to-end ML projects with real datasets
 - 💻 Integrating **ML models with web technologies**
@@ -18,7 +24,7 @@ I'm a **second-year engineering student** at **RAIT DY PATIL** in **Navi Mumbai*
 - 🌱 Transitioning from front-end to full-stack AI development
 
 ### 📈 My Learning Journey
-- ✅ Solid foundation in **Front-End Development** (HTML, CSS, JavaScript)
+- ✅ Solid foundation in **Front-End Development** (HTML, CSS, JavaScript, React)
 - 🔄 **Currently mastering:** Python, ML frameworks, deep learning
 - 🎯 **Next:** Advanced NLP, Computer Vision, Production ML
 
@@ -26,141 +32,149 @@ I'm a **second-year engineering student** at **RAIT DY PATIL** in **Navi Mumbai*
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### 🎨 Front-End
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+### 🎨 Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 🤖 AI & Machine Learning
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### 📊 Data Science & Analysis
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-<div align="center">
-
 ### 🏆 My Latest Work
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[CodSoft-AI-Internship-Tasks](https://github.com/gunjankhatri319/CodSoft-AI-Internship-Tasks)** | 🤖 AI/ML projects including chatbots, Tic-Tac-Toe AI with Minimax algorithm, image captioning, recommendation systems, and face detection/recognition | Python, TensorFlow, OpenCV |
-| **[Text-Summarizer-SAMSum](https://github.com/gunjankhatri319/text-summarizer-samsum)** | 📝 End-to-end abstractive text & dialogue summarizer using Hugging Face Transformers and SAMSum dataset | Python, Transformers, NLP |
-| **[CreditWise-Loan-System](https://github.com/gunjankhatri319/creditwise-loan-system)** | 🏦 Full-stack banking & credit management platform with CIBIL scoring, loan underwriting, payment settlement | HTML, CSS, JavaScript, MongoDB |
+**1. 🤖 [CodSoft-AI-Internship-Tasks](https://github.com/gunjankhatri319/CodSoft-AI-Internship-Tasks)**
+   - AI and Machine Learning projects from CodSoft internship
+   - Includes: Chatbot, Tic-Tac-Toe AI (Minimax), Image Captioning, Recommendation Systems, Face Detection/Recognition
+   - **Tech:** Python, TensorFlow, OpenCV, Deep Learning
 
-</div>
+**2. 📝 [Text-Summarizer-SAMSum](https://github.com/gunjankhatri319/text-summarizer-samsum)**
+   - End-to-end abstractive text & dialogue summarizer
+   - Built with Hugging Face Transformers and SAMSum dataset
+   - **Tech:** Python, Transformers, NLP, Pre-trained Models
 
----
+**3. 🏦 [CreditWise-Loan-System](https://github.com/gunjankhatri319/creditwise-loan-system)**
+   - Full-stack banking & credit management platform
+   - Features: CIBIL scoring, loan underwriting, payment settlement, MongoDB persistence
+   - **Tech:** HTML, CSS, JavaScript, MongoDB, Backend
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### 📈 My GitHub Activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjankhatri319&theme=radical&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/gunjankhatri319)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjankhatri319&theme=radical&layout=compact&langs_count=8)](https://github.com/gunjankhatri319)
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gunjankhatri319&theme=radical&hide_border=true)](https://github.com/gunjankhatri319)
-
-</div>
+**4. 👤 [GitHub Profile Config](https://github.com/gunjankhatri319/gunjankhatri319)**
+   - Personal GitHub profile repository
+   - Contains: README and profile configurations
+   - **Tech:** Markdown, GitHub Pages
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education & Learning
 
-**RAIT DY PATIL University** | Second Year Engineering  
+**RAIT DY PATIL University**  
 📍 Navi Mumbai, Maharashtra, India  
-🎯 **Focus Areas:** Artificial Intelligence, Machine Learning, Data Science
+🎯 **Second Year Engineering Student**  
+📚 **Focus:** Artificial Intelligence, Machine Learning, Data Science
 
 ### 📚 Learning Resources I Follow
-- Fast.ai (Deep Learning)
-- Kaggle (Competitions & Datasets)
-- Andrew Ng's ML Course
-- Hugging Face Documentation
-- Research Papers on ArXiv
+- ✅ Fast.ai (Deep Learning)
+- ✅ Kaggle (Competitions & Datasets)
+- ✅ Andrew Ng's Machine Learning Course
+- ✅ Hugging Face Documentation
+- ✅ Research Papers (ArXiv)
+- ✅ Official Docs (TensorFlow, PyTorch)
 
 ---
 
-## 🌟 Key Achievements & Milestones
+## 🌟 Key Achievements
 
 - ✅ Completed **CodSoft AI Internship** with multiple AI/ML projects
 - 🤖 Built **AI applications** using deep learning and NLP
-- 📊 Worked with **complex datasets** and implemented algorithms from scratch
-- 🎯 Developed both **frontend** and **full-stack** solutions
-- 🚀 Actively learning and **shipping projects regularly**
+- 📊 Worked with **complex datasets** and implemented algorithms
+- 🏗️ Developed **full-stack solutions** (frontend + backend)
+- 🚀 Actively **shipping projects** and learning new technologies
+- 💡 Passion for **solving real-world problems** with AI
 
 ---
 
-## 💡 What I'm Learning Next
+## 🎯 Learning Roadmap
 
+### Currently Learning 🔥
+- [ ] Advanced Machine Learning Algorithms
+- [ ] Natural Language Processing (NLP)
+- [ ] Deep Learning & Neural Networks
+- [ ] Computer Vision Basics
+- [ ] Working with Large Datasets
+
+### Next Up 🚀
 - [ ] Advanced NLP (Transformers, BERT, GPT)
-- [ ] Computer Vision (CNNs, Object Detection)
+- [ ] Computer Vision (CNNs, Object Detection, YOLO)
 - [ ] Reinforcement Learning
-- [ ] ML Model Deployment (Docker, Kubernetes)
+- [ ] ML Model Deployment (Docker, FastAPI)
 - [ ] MLOps & Production ML
-- [ ] Full-stack AI applications with FastAPI/Flask
+- [ ] Building Full-Stack AI Applications
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
-
-I'm always interested in **collaborating on ML projects**, discussing **new ideas**, or helping with **coding problems**. Feel free to reach out!
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjan-khatri-29251b372)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunjan2020khatri@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunjankhatri319)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
+
+**Let's collaborate! I'm open to:**
+- 💼 ML/AI Project Collaboration
+- 🤝 Open Source Contributions
+- 💡 Discussing Ideas & Learning Together
+- 🎯 Building Real-World Solutions
 
 </div>
 
 ---
 
-## 📈 My Coding Activity
+## 💬 My Coding Philosophy
 
 ```
-🔥 Powered by passion and caffeine ☕
-📚 Always learning, always building
-🚀 Making AI accessible one project at a time
+🔥 Learning never stops
+📚 Theory + Practice = Mastery
+🚀 Building > Talking
+💡 Every project teaches something new
+🌱 From zero to hero, one commit at a time
 ```
 
 ---
 
 <div align="center">
 
-### 💬 Random Dev Quote:
+### ⭐ If you find my work interesting, please give it a star!
 
-> *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
+*"The best time to plant a tree was 20 years ago. The second best time is now."* — Chinese Proverb
+
+**Keep Building. Keep Learning. Keep Growing.** 🚀
+
+</div>
 
 ---
 
-⭐ **If you find my work interesting, consider giving it a star!** ⭐
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gunjankhatri319&color=blue&style=flat-square)
+Made with ❤️ by Gunjan Khatri | Last Updated: 2026
 
 </div>
